@@ -1,9 +1,6 @@
 package cphbusiness.ufo.letterfrequencies;
 
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
-import java.io.Reader;
+import java.io.*;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
@@ -21,15 +18,16 @@ public class Main {
     public static void main(String[] args) throws FileNotFoundException, IOException {
         Timer t = new Timer();
         t.play();
-        String fileName = "C:/Git/UFO/UFO_Optimization_Assignment3/FoundationSeries.txt";
-        Reader reader = new FileReader(fileName);
+        String fileName = "C:/Users/simon/IdeaProjects/letterfrequencies/FoundationSeries.txt";
+        FileReader fr = new FileReader(fileName);
+        BufferedReader reader = new BufferedReader(fr);
         Map<Integer, Long> freq = new HashMap<>();
         tallyChars(reader, freq);
         print_tally(freq);
         System.out.println("Time spent: " + t.check()*1_000 + " ms");
     }
 
-    private static void tallyChars(Reader reader, Map<Integer, Long> freq) throws IOException {
+    private static void tallyChars(BufferedReader reader, Map<Integer, Long> freq) throws IOException {
         int b;
 
         while ((b = reader.read()) != -1) {
