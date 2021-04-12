@@ -27,11 +27,11 @@ public class Main {
         tallyChars(reader, freq);
         print_tally(freq);
         System.out.println("Time spent: " + t.check()*1_000 + " ms");
-
     }
 
     private static void tallyChars(Reader reader, Map<Integer, Long> freq) throws IOException {
         int b;
+
         while ((b = reader.read()) != -1) {
             try {
                 freq.put(b, freq.get(b) + 1);
