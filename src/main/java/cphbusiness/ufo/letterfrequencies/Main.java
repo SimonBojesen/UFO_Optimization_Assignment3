@@ -18,7 +18,7 @@ public class Main {
     public static void main(String[] args) throws FileNotFoundException, IOException {
         Timer t = new Timer();
         t.play();
-        String fileName = "C:/Users/simon/IdeaProjects/letterfrequencies/FoundationSeries.txt";
+        String fileName = "C:/Git/UFO/UFO_Optimization_Assignment3/FoundationSeries.txt";
         FileReader fr = new FileReader(fileName);
         BufferedReader reader = new BufferedReader(fr);
         Map<Integer, Long> freq = new HashMap<>();
