@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1618323752 "c:/Users/simon/IdeaProjects/letterfrequencies/LaTeX/HandInDoc.tex" "c:/Users/simon/IdeaProjects/letterfrequencies/LaTeX/HandInDoc.pdf" "HandInDoc" 1618323755
+["pdflatex"] 1618324069 "c:/Users/simon/IdeaProjects/letterfrequencies/LaTeX/HandInDoc.tex" "c:/Users/simon/IdeaProjects/letterfrequencies/LaTeX/HandInDoc.pdf" "HandInDoc" 1618324074
   "../screenshots/Timer.PNG" 1618319760 28138 1c6365648d592d2047fb60baacad9897 ""
   "../screenshots/changed_code1.PNG" 1618250654 8521 8b7d9826a1887c7f09436002391d4b3d ""
   "../screenshots/changed_code2.PNG" 1618250673 38311 8dd48503cbf1d66c414dfe951fec4acc ""
@@ -79,15 +79,15 @@
   "C:/Users/simon/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576437552 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/simon/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1575574882 9715 b051d5b493d9fe5f4bc251462d039e5f ""
   "C:/Users/simon/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "HandInDoc.aux" 1618323755 3601 27fc013b62e0b3e24bdadf4333b1a3ec "pdflatex"
-  "HandInDoc.out" 1618323755 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "HandInDoc.tex" 1618323748 6029 b46871a537654a23ffd21dc639856126 ""
-  "c:/Users/simon/IdeaProjects/letterfrequencies/LaTeX/HandInDoc.aux" 1618323755 3601 27fc013b62e0b3e24bdadf4333b1a3ec ""
-  "c:/Users/simon/IdeaProjects/letterfrequencies/LaTeX/HandInDoc.tex" 1618323748 6029 b46871a537654a23ffd21dc639856126 ""
+  "HandInDoc.aux" 1618324074 3601 27fc013b62e0b3e24bdadf4333b1a3ec "pdflatex"
+  "HandInDoc.out" 1618324073 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "HandInDoc.tex" 1618324062 6048 63f7f996241208ea256d732bf5ee1736 ""
+  "c:/Users/simon/IdeaProjects/letterfrequencies/LaTeX/HandInDoc.aux" 1618324074 3601 27fc013b62e0b3e24bdadf4333b1a3ec ""
+  "c:/Users/simon/IdeaProjects/letterfrequencies/LaTeX/HandInDoc.tex" 1618324062 6048 63f7f996241208ea256d732bf5ee1736 ""
   (generated)
+  "HandInDoc.aux"
   "c:/Users/simon/IdeaProjects/letterfrequencies/LaTeX/HandInDoc.pdf"
-  "HandInDoc.log"
   "c:/Users/simon/IdeaProjects/letterfrequencies/LaTeX/HandInDoc.log"
+  "HandInDoc.log"
   "HandInDoc.pdf"
   "HandInDoc.out"
-  "HandInDoc.aux"
