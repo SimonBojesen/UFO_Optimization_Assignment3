@@ -10,6 +10,6 @@ It contains a Jupyter Notebook:
 
 ## LaTeX
 And a LaTeX created PDF:
-[PDF Doc](LaTeX/HandInDox.pdf)
+[PDF Doc](LaTeX/HandInDoc.pdf)
 LaTeX code:
-[LaTeX Code](LaTeX/HandInDox.tex)
+[LaTeX Code](LaTeX/HandInDoc.tex)
