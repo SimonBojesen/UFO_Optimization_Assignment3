@@ -1,4 +1,15 @@
-# Letter frequencies
-Simple program used to illustrate performance problems. You should be able to optimize this program to run about twice as fast.
 # UFO_Optimization_Assignment3
-# UFO_Optimization_Assignment3
+
+## Java
+This project consists of a Java program:
+[Java Code](src/main/java/cphbusiness/ufo/letterfrequencies/)
+
+## Python
+It contains a Jupyter Notebook:
+[Python Code](python/Plotting_Tests.ipynb)
+
+## LaTeX
+And a LaTeX created PDF:
+[Python Code](LaTeX/HandInDox.pdf)
+LaTeX code:
+[Python Code](LaTeX/HandInDox.tex)
